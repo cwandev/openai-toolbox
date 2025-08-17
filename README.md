@@ -95,6 +95,7 @@
 | [Prompt-Engineering-Note](https://islinxu.github.io/prompt-engineering-note/) | 面向开发者的ChatGPT提问工程学习笔记 |
 | [ChatGPT-Prompt-Engineering](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) | 吴恩达与 OpenAI 联手推出的一门面向开发者的技术教程，含中英双语字幕 |
 | [Prompt-Engineering](https://github.com/brexhq/prompt-engineering) | 使用大型语言模型（如 OpenAI 的 GPT-4）的提示和技巧 |
+| [God Tier Prompts](https://www.godtierprompts.com) | 一个由社区驱动的排行榜，让最好的提示脱颖而出 |
 
 
 ### AI 绘图
